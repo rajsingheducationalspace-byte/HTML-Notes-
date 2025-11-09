@@ -23,7 +23,7 @@ There are many tags which are uses in the making of webpages through html like.
 suppose we are making a simple webpage for marriage hall. we have to display the  images, facilites and contact details.
 so when we are going to make this website there are many things which we have to insert on it like images, servies provided by the hall, owner details. 
  
- ---
+---
 
  so first of all we have to make a boiler plate for it which consist many things. let's take a example. 
 
